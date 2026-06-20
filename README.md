@@ -1,2 +1,14 @@
 # xingkongappbase-hub
-HTML page archive and documentation
+
+仓库页面索引说明
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 文件用途
+
+- HTML 文件保存页面内容
+- README 记录仓库基本信息
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
